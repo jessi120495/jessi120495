@@ -1,4 +1,7 @@
 ## Hi there 👋
+##Ich bin Jessica, ihr könnt mich aber gern einfach nur Jessi nennen.
+##Ich lerne grade bei der DCI alles über Web Development in einem Kurs.
+##Heute haben wir uns GitHub angeschaut, das war spannend.
 
 <!--
 **jessi120495/jessi120495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
